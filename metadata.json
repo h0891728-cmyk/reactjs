@@ -1,0 +1,5 @@
+{
+  "name": "Swastik Hospital Jabalpur",
+  "description": "A modern, professional hospital website for Swastik Hospital Jabalpur, featuring appointment booking, doctor profiles, and a pharmacy section.",
+  "requestFramePermissions": ["geolocation"]
+}
